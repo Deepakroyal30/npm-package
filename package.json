@@ -1,13 +1,13 @@
 {
-  "name": "binary-search-app-testing",
-  "version": "1.0.2",
+  "name": "array-functionalities",
+  "version": "1.0.0",
   "description": "This npm package provides a binary search function for searching elements in a sorted array.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["binary-Search"],
+  "keywords": ["binary-Search","sum of array"],
   "author": "Deepak",
   "license": "ISC"
 }

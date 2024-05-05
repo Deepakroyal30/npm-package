@@ -1,12 +1,10 @@
-# Binary Search Package
+# Array Functionalities
 
-This npm package provides a binary search function for searching elements in a sorted array.
-
-Feel free to Say what can i make changes
+This npm package provides a collection of useful array manipulation functions for JavaScript.
 
 ## Installation
 
-Install the package via npm:
+You can install the `array-functionalities` package via npm:
 
 ```bash
-npm install binary-search-package
+npm install array-functionalities
