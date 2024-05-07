@@ -1,7 +1,7 @@
 {
-  "name": "array-functionalities",
+  "name": "task",
   "version": "1.0.0",
-  "description": "This npm package provides a binary search function for searching elements in a sorted array.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js", 
